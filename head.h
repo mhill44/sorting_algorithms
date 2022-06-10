@@ -1,13 +1,12 @@
-#ifndef SORT_H
-#define SORT_H
+#ifndef HEAD_H
+#define HEAD_H
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
 /**
- * struct listint_s - Doubly linked list node
- *
+ * struct listint_s - A Doubly linked list node
  * @n: Is the Integer stored in the node
  * @prev: Is the Pointer to the previous element of the list
  * @next: Is thes Pointer to the next element of the list
