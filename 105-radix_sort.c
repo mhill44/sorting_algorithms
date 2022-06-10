@@ -1,4 +1,4 @@
-#include "sort.h"
+#include "head.h"
 
 /**
 * findmax - This Finds the maximum value in an array
